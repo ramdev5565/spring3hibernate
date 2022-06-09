@@ -5,4 +5,4 @@ echo "are you ok"
 echo "yes"
 echo "no"
 echo "go"
-echo "come"
+
